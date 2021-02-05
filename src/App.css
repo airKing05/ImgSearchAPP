@@ -1,11 +1,11 @@
 *{
-  background-color: rgb(240, 229, 229);
+  background-color: rgb(216, 187, 187);
 }
 .App {
   text-align: center;
 }
 
-.main_div{
+.container{
   display: flex;
   justify-content: center;
   margin: 20px auto;
